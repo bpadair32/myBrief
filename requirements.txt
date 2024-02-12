@@ -13,7 +13,7 @@ regex==2023.12.25
 requests==2.31.0
 safetensors==0.4.2
 soupsieve==2.5
-tokenizers==0.15.1
+tokenizers==0.15.2
 tqdm==4.66.1
 transformers==4.37.2
 typing_extensions==4.9.0
