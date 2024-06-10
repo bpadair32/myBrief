@@ -3,7 +3,7 @@ bs4==0.0.2
 certifi==2024.6.2
 charset-normalizer==3.3.2
 filelock==3.14.0
-fsspec==2024.5.0
+fsspec==2024.6.0
 huggingface-hub==0.23.2
 idna==3.7
 numpy==1.26.4
