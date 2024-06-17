@@ -6,7 +6,7 @@ filelock==3.14.0
 huggingface-hub==0.23.3
 fsspec==2024.6.0
 idna==3.7
-numpy==1.26.4
+numpy==2.0.0
 packaging==24.1
 PyYAML==6.0.1
 regex==2024.5.15
