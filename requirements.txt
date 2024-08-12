@@ -11,7 +11,7 @@ packaging==24.1
 PyYAML==6.0.2
 regex==2024.7.24
 requests==2.32.3
-safetensors==0.4.3
+safetensors==0.4.4
 soupsieve==2.5
 tokenizers==0.19.1
 tqdm==4.66.5
