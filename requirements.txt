@@ -4,7 +4,7 @@ certifi==2024.8.30
 charset-normalizer==3.3.2
 filelock==3.16.0
 huggingface-hub==0.24.6
-fsspec==2024.6.1
+fsspec==2024.9.0
 idna==3.8
 numpy==2.1.1
 packaging==24.1
