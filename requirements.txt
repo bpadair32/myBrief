@@ -9,7 +9,7 @@ idna==3.8
 numpy==2.1.1
 packaging==24.1
 PyYAML==6.0.2
-regex==2024.7.24
+regex==2024.9.11
 requests==2.32.3
 safetensors==0.4.4
 soupsieve==2.6
