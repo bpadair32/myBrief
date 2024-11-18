@@ -13,7 +13,7 @@ regex==2024.11.6
 requests==2.32.3
 safetensors==0.4.4
 soupsieve==2.6
-tokenizers==0.20.1
+tokenizers==0.20.3
 tqdm==4.67.0
 transformers==4.46.2
 typing_extensions==4.12.2
