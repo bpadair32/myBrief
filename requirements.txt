@@ -15,6 +15,6 @@ safetensors==0.5.2
 soupsieve==2.6
 tokenizers==0.21.0
 tqdm==4.67.1
-transformers==4.48.1
+transformers==4.48.2
 typing_extensions==4.12.2
 urllib3==2.3.0
