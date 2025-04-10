@@ -16,5 +16,5 @@ soupsieve==2.6
 tokenizers==0.21.1
 tqdm==4.67.1
 transformers==4.51.1
-typing_extensions==4.13.1
+typing_extensions==4.13.2
 urllib3==2.3.0
