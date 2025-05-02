@@ -1,7 +1,7 @@
 beautifulsoup4==4.13.4
 bs4==0.0.2
 certifi==2025.4.26
-charset-normalizer==3.4.1
+charset-normalizer==3.4.2
 filelock==3.18.0
 huggingface-hub==0.30.2
 fsspec==2025.3.2
